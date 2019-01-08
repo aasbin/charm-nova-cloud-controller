@@ -70,6 +70,7 @@ PY3_PACKAGES = [
     'libapache2-mod-wsgi-py3',
     'python3-nova',
     'python3-keystoneclient',
+    'python3-novaclient',
     'python3-psutil',
     'python3-six',
     'python3-memcache',

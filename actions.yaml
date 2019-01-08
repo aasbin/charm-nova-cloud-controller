@@ -11,3 +11,5 @@ archive-data:
       type: integer
       default: 10000
       description: Archive old data to shadow tables
+get-capacity-info:
+  description: Outputs the capacity of instances per flavor along with summary from each hypervisor.  
